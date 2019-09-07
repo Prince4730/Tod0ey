@@ -64,11 +64,6 @@ loadItems()
         }
         present(alert, animated: true, completion: nil)
         
-        
-        
-        
-        
-        
     }
     func saveAction() {
         do{
@@ -90,7 +85,6 @@ loadItems()
     {
     print("error in fetching data from context  is \(error)")
     }
-    
     
     }
 }
